@@ -1,1 +1,1 @@
-# Rearrange-Array-Alternately
+# Rearrange-An-Array-Alternately
